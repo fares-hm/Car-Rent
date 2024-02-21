@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "201860189353",
+    "firebase_url": "https://photoapp-2023-default-rtdb.firebaseio.com",
+    "project_id": "photoapp-2023",
+    "storage_bucket": "photoapp-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201860189353:android:8ddf4853355caaeadcedb8",
+        "android_client_info": {
+          "package_name": "com.fares.carapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201860189353-5g5hcj27n9pcmjnkav858mu3974bj5rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMR-ryEzQwDJr5sz6_ZK8NTmB3maLyKZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201860189353-5g5hcj27n9pcmjnkav858mu3974bj5rh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201860189353-ce23pgrp6e5efmqvj1sbfkoe84vhq7qf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fares.carapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

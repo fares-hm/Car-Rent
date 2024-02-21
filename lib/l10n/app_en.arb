@@ -1,0 +1,35 @@
+{
+  "welcome": "Welcome to Car Rental App",
+  "home": "Home",
+  "login": "Login",
+  "login_with": "Login with",
+  "firebaseAuth": "Login or register with Firebase Auth",
+  "email": "Email:",
+  "name": "Name",
+  "year": "Year",
+  "price": "Price",
+  "submit": "Upload",
+  "pickImage": "Pick an image",
+  "signOut": "Sign out",
+  "pass" : "Password",
+  "register" : "Register",
+  "loginInstead" : "Have an account? login",
+  "registerInstead": "New user? Register",
+  "list": "Manage items",
+  "selectFileFirst": "Please select an image first",
+  "selectDataFirst": "Please enter all data",
+  "entries": "Cars",
+  "editFile": "Edit file",
+  "update": "Update",
+  "pickImage": "Pick An Image",
+  "uploading": "Uploading...",
+  "dataUpdated": "Your data has been updated",
+  "dataUploaded": "Your data has been uploaded, please select another one and submit upload.",
+  "yesDelete": "Yes, delete it !!",
+  "noDontDelete": "No",
+  "areYouSure": "Are you sure, you want to delete this item",
+  "addItem": "Add item"
+
+
+
+}
